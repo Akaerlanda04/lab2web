@@ -14,33 +14,33 @@
  ![Membuat dokumen HTML](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss1.png)
  <br>
 
- 2.<b>Mendeklarasikan CCS Internal</b>
+ 2.<b>tampilan hasil dokumen html</b>
  <br>
- nah selanjutnya kita mendeklarasikan CCS Internal berikut umtuk tampilannya
- <br>
-
- ![Mendeklarasikan CSS internal](pictures/gambar2.png)
+ nah selanjutnya buka pada browser untuk melihat hasilnya
  <br>
 
- 3.<b>Menambahkan Inline CSS</b>
+ ![tampilan pada browser](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss2.png)
  <br>
- lalu kita menambahkan deklarasi inline CSS nah berikut tampilannya
 
- ![ Menambahkan Inline CSS](pictures/gambar3.png)
+ 3.<b>Mendeklarasikan CSS Internal</b>
+ <br>
+ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen
+
+ ![ Mendeklarasikan CSS Internal](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss3.png)
 <br>
 
-<b>4. Membuat CSS Eksternal</b>
+<b>4. hasil dari CSS Internal</b>
 <br>
- setelah itu kita membuat file baru untuk mendeklarasikan css berikut tampilannya
+ Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasilnya.
 
- ![ Membuat CSS Eksternal](pictures/gambar4.png)
 
- <b>.5. Menambahkan CSS Selector</b>
+ ![ Hasil CSS Internal](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss4.png)
+
+ <b>.5. Menambahkan Inline CSS</b>
 <br>
-Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file 
-style_eksternal.css, tambahkan kode berikut
+Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut
 
-![ Menambahkan CSS Selector](pictures/gambar5.png)
+![ Menambahkan Inline CSS](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss5.png)
 <br>
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS 
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
