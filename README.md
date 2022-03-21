@@ -38,7 +38,7 @@
 
  <b>.5. Menambahkan Inline CSS</b>
 <br>
-Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut
+Kemudian tambahkan deklarasi inline CSS pada tag < P > seperti berikut
 
 ![ Menambahkan Inline CSS](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss5.png)
 <br>
