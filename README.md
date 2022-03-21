@@ -1,8 +1,8 @@
 # Lab2Web
 ><b>TUGAS PRAKTIKUM 2</b>
 
-<br>Nama       :Moch. Nauval faris muzaki
-<br>NIM        :312010122
+<br>Nama       :Aka Erlanda
+<br>NIM        :312010207
 <br>Kelas      :TI.20.B1
 <br>Matkul     :Pemrograman Web
 <br>
