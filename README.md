@@ -11,7 +11,7 @@
  Untuk langkah awal kita membuat dokumen HTML terlebih dahulu berikut tampilannya 
  <br>
 
- ![Membuat dokumen HTML](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss1.pngg)
+ ![Membuat dokumen HTML](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss1.png)
  <br>
 
  2.<b>Mendeklarasikan CCS Internal</b>
