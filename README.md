@@ -1,10 +1,10 @@
 # Lab2Web
 <b>TUGAS PRAKTIKUM 2</b>
 
-<br>Nama       :Aka Erlanda
-<br>NIM        :312010207
-<br>Kelas      :TI.20.B1
-<br>Matkul     :Pemrograman Web
+<br>Nama       : Aka Erlanda
+<br>NIM        : 312010207
+<br>Kelas      : TI.20.B1
+<br>Matkul     : Pemrograman Web
 <br>
  
  <b>1.Membuat dokumen HTML.</b><br>
