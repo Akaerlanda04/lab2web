@@ -39,22 +39,22 @@ Kemudian tambahkan deklarasi inline CSS pada tag < P > seperti berikut
 
 <b>6. Hasil dari Inline CSS</b>
 <br>Simpan kembali dan refresh kembali browser untuk melihat perubahannya.<br>
-![Hasil Inline CSS] (https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss6.png)
+![Hasil Inline CSS](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss6.png)
 
 <b>7. Membuat CSS Eksternal<b>
  <br>Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut<br>
- ![File CSS Eksternal] (https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss7.png)
+ ![File CSS Eksternal](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss7.png)
  <br>Kemudian tambahkan tag < link > untuk merujuk file css yang sudah dibuat pada bagian < head > <br>
- ![File CSS Eksternal] (https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss8.png)
+ ![File CSS Eksternal](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss8.png)
  
  <b>8. hasil penambahan CSS Eksternal<b>
-  <br>Selanjutnya refresh kembali browser untuk melihat perubahannya.<br>
-  ![tampilan pada browser] (https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss9.png)
+  <br>Selanjutnya refresh kembali browser untuk melihat perubahannya.
+  ![tampilan pada browser](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss9.png)
   
   <b>9. Menambahkan CSS Selector<b>
    <br>Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut.<br>
-   ![code CSS Selector] (https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss10.png)
+   ![code CSS Selector](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss10.png)
    
    <b>10. hasil penambahan CSS Selector<b>
     <br>Kemudian simpan kembali dan refresh browser untuk melihat perubahannya<br>
-    ![tampilan pada browser] (https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss11.png)
+    ![tampilan pada browser](https://github.com/Akaerlanda04/lab2web/blob/main/pitcure/ss11.png)
